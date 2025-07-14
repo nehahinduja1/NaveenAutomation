@@ -9,6 +9,8 @@ public class Functions {
          Functions obj = new Functions();
          // one object will be created, obj is ref variable, referring to this object
         // after creating the object, the copy of all non-static method will be given to this object
+        // compulsory to create object if we want to call non-static methods
+        // main method is void bec we never write return statement inside main method
 
          obj.test();
         int l =  obj.pqr();
