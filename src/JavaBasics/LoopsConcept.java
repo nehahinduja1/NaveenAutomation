@@ -1,4 +1,4 @@
-package JavaBascis;
+package JavaBasics;
 
 public class LoopsConcept {
     public static void main(String[] args) {

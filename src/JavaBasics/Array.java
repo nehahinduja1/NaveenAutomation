@@ -1,4 +1,4 @@
-package JavaBascis;
+package JavaBasics;
 
 public class Array {
     public static void main (String[]args) {
@@ -8,10 +8,10 @@ public class Array {
         // array : to store similar data types values in a array variable
 
         // One dimension array
-        // disadv of array
+//   disadvantages of array
 //    1. size is fixed -> static array - to overcome this - we use collections - arraylist, hashtable - use dynamic array
 //    2. Stores only similar data types -- only char, only string, or only int -> to overcome this--
-//    we use object array
+//   -- we use object array
 
 
 
@@ -83,12 +83,6 @@ public class Array {
         o[4]= 5.2;
         System.out.println(o[3]);
         System.out.println(o.length);
-
-
-
-
-
-
 
     }
 }

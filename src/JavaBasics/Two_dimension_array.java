@@ -1,4 +1,4 @@
-package JavaBascis;
+package JavaBasics;
 
 public class Two_dimension_array {
     public static void main(String[] args) {
