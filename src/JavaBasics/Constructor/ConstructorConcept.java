@@ -1,4 +1,4 @@
-package JavaBasics;
+package JavaBasics.Constructor;
 
 public class ConstructorConcept {
     // Constructor name should be same as class name we don't write void, int, static and it is not at function
