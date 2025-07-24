@@ -1,4 +1,4 @@
-package JavaInterviewQues;
+package Java_InterviewQ;
 
 import java.util.Arrays;
 
